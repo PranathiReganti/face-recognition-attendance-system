@@ -15,3 +15,7 @@ Real-time face recognition system using OpenCV.
 ## How to Run
 1. Run train.py
 2. Run recognize.py
+
+## Output
+- Real-time face recognition
+- Attendance stored in CSV file
